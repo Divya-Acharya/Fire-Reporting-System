@@ -1,3 +1,9 @@
-        <footer class="py-5 bg-dark">
-            <div class="container px-4 px-lg-5"><p class="m-0 text-center text-white"> <?php echo $wtitle;?> <?php echo date('Y');?></p></div>
-        </footer>
+ <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; <?php echo $wtitle;?> </span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
